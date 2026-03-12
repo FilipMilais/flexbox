@@ -9,7 +9,7 @@ body{
 .container{
     border: 1px solid black;
     width: 80%;
-    height: 600px;
+    height: 500px;
     display: flex;
     /*justify-content: space-evenly;
     align-items: center;*/
@@ -20,9 +20,9 @@ body{
 
 .item{
     width: 100px;
-    height: 100px;
+    height: 500px;
     background-color: brown;
-    border: 1px solid black;
+    border: 1px solid blue;
     border-radius: 10px;
     text-align: center;
     padding: 1em;
